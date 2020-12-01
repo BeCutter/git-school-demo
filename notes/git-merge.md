@@ -1,0 +1,1 @@
+`git merge --no-ff <branch>`: non-fast-forward branch merging
